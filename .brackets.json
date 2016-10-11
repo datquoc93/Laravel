@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "kendo.js",
+        "C:/wamp/www/lrv1/gulpfile.js",
+        "C:/wamp/www/lrv1/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/js/respond.min.js",
+        "C:/wamp/www/lrv1/vendor/phpunit/php-code-coverage/src/CodeCoverage/Report/HTML/Renderer/Template/js/nv.d3.min.js"
+    ]
+}
